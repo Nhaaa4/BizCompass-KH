@@ -1,0 +1,28 @@
+[project]
+name = "bizcompass-kh"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Nhaaa4", email = "panhasovan51@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "langchain-core>=1.5.6",
+    "langchain-ollama>=1.1.0",
+    "langchain-weaviate>=0.0.8",
+]
+
+[project.scripts]
+bizcompass-kh = "bizcompass_kh:main"
+
+[build-system]
+requires = ["uv_build>=0.12.3,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.3.0",
+    "pytest>=9.1.1",
+    "ruff>=0.16.3",
+]
