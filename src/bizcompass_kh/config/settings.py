@@ -22,8 +22,15 @@ class Settings(BaseSettings):
 
     @property
     def database_url(self) -> str:
-        if self.DATABASE_URL is not None:
-            return self.DATABASE_URL
-        return f"postgresql://{self.POSTGRES_USER}:{self.POSTGRES_PASSWORD}@{self.POSTGRES_HOST}:{self.POSTGRES_PORT}/{self.POSTGRES_DB}"
-
+        if self.DATABASE_URL:
+            return self.DATABASE_URL.replace(
+                'postgresql://', 
+                'postgresql+psycopg2://', 
+                1
+            )
+        return (
+            f"postgresql+psycopg2://" 
+            f"{self.POSTGRES_USER}:{self.POSTGRES_PASSWORD}"
+            f"@{self.POSTGRES_HOST}:{self.POSTGRES_PORT}/{self.POSTGRES_DB}"
+        )
 settings = Settings()  # pyright: ignore[reportCallIssue]
