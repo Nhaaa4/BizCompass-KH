@@ -1,0 +1,591 @@
+id,question,answer,expected_source_ids,retrieved_source_ids,relevance,groundedness,completeness,citation_correctness,unsupported_claims,hallucinated
+q001,What information is needed before starting online business registration?,"To begin online business registration, specific documents are required to activate an account, followed by providing detailed information within that account through the Ministry of Commerce's website [2].
+
+For initial account activation:
+*   Entrepreneurs must create an account at `www.businessregistration.moc.gov.kh` and upload their national ID cards or passports [2].
+
+After the online account is created, entrepreneurs are required to provide additional information through their account, including:
+*   The proprietorship of the enterprise (for example, whether it is a joint or sole proprietorship) [2].
+*   A proposed and reserved name for the enterprise [2].
+*   A general description of business activities [2].
+*   The address and contacts of the owner [2].
+*   The number of employees [2].
+
+*(Note: The new unified process allows registration at MoC, GDT, and MLVT in one go using a Single Portal, simplifying procedures previously requiring separate registrations at different ministries/institutions [1]).*",['online_business_registration_guide'],"['online_business_registration_guide', 'supporting_msmes_sdgs_cambodia', 'online_business_registration_guide', 'online_business_registration_guide', 'obr_who_can_register']",5,5,5,5,[],False
+q002,How does Cambodia online business registration work?,"Business registration in Cambodia can be initiated through the One Portal system, which provides a user guide for the process [5]. The general sequence of steps includes:
+
+1.  **Name Search:** Starting with the Name Search and confirmation [4], you must select and confirm your business name and structure [5].
+2.  **Legal Entity Registration (MOC):** To become a legal entity, an entrepreneur can apply for approval for a Memorandum of Association (MoA) and company registration at the Single Point Service Center [2]. This single process allows the submission and receipt of all documents needed to obtain:
+    *   Approval for MoA and evidence of the company as a legal entity [2].
+    *   Taxpayer Identification Number (TIN) [2].
+    *   Registration for social security and the Workmen’s Compensation Fund [2].
+    This entire step can be completed within one day in one window [2].
+3.  **Tax Registration:** If your annual revenue exceeds a threshold of THB 1.8 million, Value Added Tax (VAT) registration is mandatory for all companies and can be completed online or by visiting the Revenue Department office [2]. Furthermore, if you have staff members, applying for National Social Security Fund (NSSF) is required [4], [5].
+4.  **Final Steps:** Following these steps, additional procedures may include:
+    *   Business registration with the Ministry of Commerce (MOC) [4].
+    *   Tax registration with the General Department of Tax (GDT) [4].
+    *   Declaration of opening with the Ministry of Labor and Vocational Training (MoLVT) [4].
+    *   Obtaining necessary licenses and permits, which vary based on the type of business and industry [4].",['online_business_registration_guide'],"['supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'online_business_registration_guide', 'khmersme_starting_business', 'khmersme_starting_business_step_5']",5,1,2,1,"['apply for approval for a Memorandum of Association (MoA) and company registration at the Single Point Service Center', 'obtain Taxpayer Identification Number (TIN) through the Single Point Service Center', 'Registration for social security and the Workmen’s Compensation Fund through the Single Point Service Center', 'The legal entity registration process in Cambodia can be completed within one day in one window', 'VAT registration in Cambodia is mandatory if annual revenue exceeds a threshold of THB 1.8 million']",True
+q003,Which agencies participate in online business registration?,"The agencies that participate in online business registration through the Single Portal are MoC, GDT, and MLVT [2]. They utilize their respective systems (MOC System, GDT System, and MLVT System) for this procedure [2].",['online_business_registration_guide'],"['online_business_registration_guide', 'online_business_registration_guide', 'online_business_registration_guide', 'obr_who_can_register', 'online_business_registration_guide']",5,5,5,5,[],False
+q004,What documents support an online registration application?,"For business registration in Cambodia, required documents depend on whether you are referring to the initial online account setup or the subsequent physical submission of application files.
+
+**1. Online Account Setup Requirements:**
+*   To activate an online account, entrepreneurs must upload their national ID cards or passports [1].
+
+**2. Documents Submitted to Ministry of Commerce (MoC) / General Department of Taxation (GDT):**
+While the initial registration starts online, subsequent physical documents are required for completion:
+
+*   **Ministry of Commerce/Proprietary Requirements:** Within 15 days after creating an online account, entrepreneurs must submit several original and copied documents to the Ministry of Commerce or its provincial branches [1]. These include:
+    *   Documents listing the name, address, contact details, and proprietary type of the enterprise [1].
+    *   Original copies of agreement on company shareholding structure [1].
+    *   Photos, identity cards, or passports of owners, shareholders, and board members [1].
+    *   A letter signed by owners declaring non-criminal records in any commercial, civic, or criminal cases. This declaration must also confirm that the owners are not government officials bound by Civil Servants Statutes of the Kingdom of Cambodia [1].
+    *   Two original copies of the enterprise statute or by-law, along with a statement of bank deposits [1].
+
+*   **Ministry of Economy and Finance Requirements (Via Single Portal):** Specific documents required for business registration include [2]:
+    *   Land title or lease agreement of the enterprise’s location [2].
+    *   Current photo (no longer than 3 months) of the director, shareholder (if a physical person), and/or representative (if a legal entity) with a white background [2].
+    *   National identification card of the director, shareholder (if a physical person), and/or representative (if a legal entity) [2].
+    *   Articles of association [2].
+    *   A reference document (e.g., a letter specifying an already-exsisted company's permission to use a similar name or special licenses) [2].
+    *   If the shareholder is a legal entity, required documents include: Parent company’s authorization letter*, Parent company’s certificate*, and Parent company’s articles of association* [2].
+
+**3. Documents Required for Tax Registration:**
+Documents submitted for tax registration purposes may include [2]:
+*   Proof of paid property tax or property information of the enterprise [2].
+*   QIP document (if applicable) [2].
+*   Bank account information (this must be provided in digital form within 15 working days after tax registration) [2].",['online_business_registration_guide'],"['supporting_msmes_sdgs_cambodia', 'online_business_registration_guide', 'supporting_msmes_sdgs_cambodia', 'online_business_registration_guide', 'online_business_registration_guide']",5,4,5,5,['Ministry of Economy and Finance Requirements (Via Single Portal)'],True
+q005,How can an applicant use the online registration guide?,"An applicant can use the online registration system through guides and support features, such as:
+
+*   **User-guide book:** The Online business registration procedure (OBR) provides a User-guide book to assist with preparation for registration [3].
+*   **Process Guidance:** Guides detailing how to register your business are available online from the Ministry of Economy and Finance [1], [2].
+*   **Support Channels:** For inquiries or problems, applicants can contact the support team via:
+    *   Facebook page [3]
+    *   Live Chat [3]
+    *   Email ([email protected]) [3]
+    *   Hotline 081 888 296 (extension 1) [3]
+
+Furthermore, the online registration system features designed to be user-friendly include illustrating every step of the process clearly and providing comprehensible feedback [3].",['online_business_registration_guide'],"['online_business_registration_guide', 'online_business_registration_guide', 'obr_who_can_register', 'online_business_registration_guide', 'gdt_tax_faq']",5,3,5,1,['Guides detailing how to register your business are available online from the Ministry of Economy and Finance'],True
+q006,Who may register a business through the Online Business Registration system?,Entrepreneurs are all eligible to register their own business using the Online Business Registration system because it is user-friendly and secured [3].,['obr_who_can_register'],"['online_business_registration_guide', 'online_business_registration_guide', 'obr_who_can_register', 'online_business_registration_guide', 'online_business_registration_guide']",5,5,5,1,[],False
+q007,Which legal business forms can use the OBR platform?,"Based on the evidence, businesses registering through the system must understand the appropriate form of enterprise, which can include several types [5].
+
+The documents detail the following primary forms:
+
+1.  **Company:** This is a limited liability company whose shareholders are responsible only for the number of shares they have bought [5]. It has separated legal entity from its shareholders and is controlled by a Board of Shareholders [5]. Companies can include private limited companies or public limited companies (the latter being authorized by law to issue securities to the public) [5].
+2.  **Foreign Company:** This type is incorporated under the laws of a foreign country but has a business location in Cambodia, operating as an agent for its parent company [5]. Foreign companies include three sub-forms:
+    *   Foreign branch office
+    *   Commercial representative office
+    *   Subsidiary [5] (Any subsidiary must be registered in the form of partnership or company [3]).
+3.  **Sole Proprietorship:** This is a form where there is a single owner; it is an unlimited liability company, not a legal entity, and its assets and liabilities are those of the proprietor [3].
+4.  **Partnership:** A partnership is formed by a contract between two or more persons. It can be either a general partnership (which is managed by general partners) or a limited partnership [3].",['obr_who_can_register'],"['obr_who_can_register', 'online_business_registration_guide', 'online_business_registration_guide', 'online_business_registration_guide', 'online_business_registration_guide']",5,5,5,1,[],False
+q008,Can an eligible entrepreneur submit registration online?,"Yes, an entrepreneur is eligible to register their own business through online business registration, which is described as a user-friendly and secured procedure [2].",['obr_who_can_register'],"['online_business_registration_guide', 'obr_who_can_register', 'online_business_registration_guide', 'online_business_registration_guide', 'online_business_registration_guide']",5,5,5,1,[],False
+q009,What applicants qualify for online business registration?,"According to evidence, all entrepreneurs are eligible to register their own business through online business registration because the process is described as user-friendly and secured [2].",['obr_who_can_register'],"['online_business_registration_guide', 'obr_who_can_register', 'online_business_registration_guide', 'online_business_registration_guide', 'online_business_registration_guide']",5,5,5,1,[],False
+q010,Where can I check whether my business can use OBR?,The knowledge base does not contain enough information to answer this question.,['obr_who_can_register'],"['obr_who_can_register', 'online_business_registration_guide', 'obr_modify_registratioin_forms', 'online_business_registration_guide', 'online_business_registration_guide']",1,1,1,1,['The knowledge base does not contain enough information to answer this question.'],True
+q011,What obligations follow successful business registration?,"Following successful tax registration, certain obligations must be met:
+
+*   Bank account information must be provided in digital form within 15 working days after completing tax registration [4].
+*   Failure to provide this bank account information by the specified deadline may result in the revocation of certificates from GDT [4].",['obr_post_registration_obligations'],"['online_business_registration_guide', 'online_business_registration_guide', 'online_business_registration_guide', 'online_business_registration_guide', 'online_business_registration_guide']",5,5,5,1,[],False
+q012,What should a company do after receiving registration approval?,"After receiving approval from the Ministry of Commerce, the General Department of Taxation, and the Ministry of Labour and Vocational Training, a company must complete several additional steps [2]. These include:
+
+1. **Bank Account Setup:** The company is required to establish a company bank account [2]. This bank account detail must be updated into the Online Business Registration Platform within 15 working days after receiving approval from the General Department of Taxation on its application [2].
+2. **Specialized Licensing:** Depending on the business activity, the company may need to request separate specialized licenses. Obtaining these licenses requires undergoing inspections and procedures to ensure compliance with government rules and standards (for example, a hotel with an indoor restaurant would require specialized licenses for both facilities) [2].
+
+Additionally, during the registration process, employees must be registered with the Social Security Office [1].",['obr_post_registration_obligations'],"['supporting_msmes_sdgs_cambodia', 'obr_post_registration_obligations', 'online_business_registration_guide', 'supporting_msmes_sdgs_cambodia', 'online_business_registration_guide']",5,5,5,1,[],False
+q013,Are there post-registration compliance duties?,"Yes, there are specific post-registration requirements and compliance duties related to tax registration [5].
+
+For both foreign companies and sole proprietorships, if tax registration is completed, the following duty must be fulfilled:
+*   The bank account information must be provided in digital form within 15 working days after tax registration. Failure to comply with this requirement could result in the revocation of issued certificates from GDT [5].",['obr_post_registration_obligations'],"['gdt_tax_faq', 'gdt_tax_faq', 'online_business_registration_guide', 'online_business_registration_guide', 'online_business_registration_guide']",5,5,5,3,[],False
+q014,Where are obligations after registration explained?,"Obligations after registration are explained in the tax procedures documentation, outlining specific required submissions and filings.
+
+**Tax Registration Requirements:**
+*   When registering a Partnership Company, tax registration requires providing ""Bank account information"" [4]. This bank account information must be provided in digital form within 15 working days after tax registration; failure to do so may result in the revocation of given certificates from GDT [4].
+*   After getting approval on tax registration, one must provide a Certificate of bank account information issued by the bank (certificate of bank account or bank statement or bank account book) [3].
+
+**Tax Filing Obligations:**
+*   Self-declared taxpayers have an obligation to submit declarations and pay taxes monthly and annually, covering items such as withholding tax on income, accommodation tax, special tax on goods and services, environmental tax, and general excise tax, among others [3].",['obr_post_registration_obligations'],"['online_business_registration_guide', 'online_business_registration_guide', 'gdt_tax_faq', 'online_business_registration_guide', 'online_business_registration_guide']",5,5,5,1,['Obligations after registration are explained in the tax procedures documentation'],True
+q015,What ongoing steps must a newly registered business consider?,"A newly registered business must consider several ongoing steps, according to the Royal Government of Cambodia [4]. These obligations include:
+
+1.  **Updating Bank Account Details:** The company is required to have a properly-setup company bank account and must update these details into the Online Business Registration Platform within 15 working days after the General Department of Taxation approves the application [4].
+2.  **Requesting Specialized Licenses:** Some business activities require separate specialized licenses to ensure that the business operates according to government rules and standards [4]. For example, if a business runs both a hotel and a restaurant, it needs specialized licenses for both establishments (which can be obtained from different ministries) [4]. These requests involve going through inspections and procedures, although some key specialized licenses are available for application, payment, and tracking on the Online Business Registration Platform [4].",['obr_post_registration_obligations'],"['online_business_registration_guide', 'online_business_registration_guide', 'online_business_registration_guide', 'obr_post_registration_obligations', 'online_business_registration_guide']",5,3,5,1,"['according to the Royal Government of Cambodia', 'obtained from different ministries (specifically in the context of the hotel and restaurant example)']",True
+q016,When may a company request modification of its registered information?,"A company can modify its registered information under several conditions depending on the application stage [1].
+
+**Before Submission:**
+*   When the information has not been submitted to the Ministry of Commerce (MOC), users can draft and amend the details freely [1].
+
+**After Submission/Application Return:**
+*   Once an application is submitted, changes are restricted while the relevant officer is checking it [1].
+*   Modification is possible when the application is returned by a ministry or institution because the initial information provided was incomplete or incorrect [1]. Specific modifications upon return include:
+    *   **MOC:** Revisions may include the enterprise/company name, business activity, address, business owner details, and representative details [1].
+    *   **GDT:** Revisions can cover tax registration application info, number of employees, business signs/billboards, estimated turnover, and representative in patent [1].
+    *   **MLVT:** Revisions may involve the number of employees and owner or director details [1].
+
+**After Approval:**
+*   If changes are required after the company's information has been approved, a request form must be submitted to the relevant ministry/institution, and the institution should be contacted directly for further information [1].",['obr_modify_registratioin_forms'],"['obr_modify_registratioin_forms', 'gdt_tax_faq', 'online_business_registration_guide', 'online_business_registration_guide', 'online_business_registration_guide']",5,5,5,5,[],False
+q017,What conditions apply to changing company information?,"Users can draft and amend company information freely as long as it has not been submitted to the Ministry of Commerce (MOC) [1]. However, once an application is submitted, users cannot make changes while a relevant officer is checking the application [1].
+
+Company information modifications are possible only when the application is returned by the ministry/institution because the initially provided information was incomplete or wrong [1]. The specific revisions allowed depend on which ministry returns the application:
+
+*   **Ministry of Commerce (MOC):** If the MOC returns the application, users can revise details such as the enterprise or company name, business activity, address, business owner details, and representative details [1].
+*   **General Department of Taxation (GDT):** If GDT returns the application, revisions are permitted for information related to tax registration application, number of employees, business signs/billboards, estimated turnover, and representative in patent [1].
+*   **Ministry of Labour and Vocational Training (MLVT):** If MLVT returns the application, users can revise details such as the number of employees, and owner or director details [1].
+
+If a company needs to change its information after the application has been approved, the user must submit a request form to the relevant ministry/institution and directly contact that institution for further instructions [1].",['obr_modify_registratioin_forms'],"['obr_modify_registratioin_forms', 'gdt_tax_faq', 'online_business_registration_guide', 'online_business_registration_guide', 'online_business_registration_guide']",5,5,5,5,[],False
+q018,How can registration details be modified?,"Details on modifying company information depend on the stage of your application [1].
+
+**Before Submission:**
+You can freely draft and amend company’s information as long as it has not been submitted to the Ministry of Commerce (MOC) [1]. Once the application is submitted, changes cannot be made while a relevant officer is checking the application [1].
+
+**After Application Return/Rejection by an Authority:**
+If your application is returned by a ministry or institution, you can revise certain details depending on which body issued the return:
+
+*   **Ministry of Commerce (MOC):** If MOC returns the application, you may revise information such as the name of enterprise or company, business activity, address, business owner details, and representative details [1].
+*   **General Department of Taxation (GDT):** If GDT returns the application, you can revise details including tax registration application information, number of employees, business signs/billboards, estimated turnover, and representative in patent [1].
+*   **Ministry of Labour and Vocational Training (MLVT):** If MLVT returns the application, you may revise your company’s information regarding the number of employees and owner or director details [1].
+
+**After Approval:**
+If you need to change your company’s information after the application has been approved, you must submit a request form to the relevant ministry/institution and contact that institution directly for further guidance [1].",['obr_modify_registratioin_forms'],"['obr_modify_registratioin_forms', 'online_business_registration_guide', 'online_business_registration_guide', 'online_business_registration_guide', 'gdt_tax_faq']",5,5,5,5,[],False
+q019,Where are company modification requirements published?,"Company modification processes and requirements are managed by the following relevant ministries/institutions:
+
+*   Ministry of Commerce (MOC), which handles revisions to company information such as name of enterprise or company, business activity, address, business owner details, and representative details if the application is returned from MOC [1].
+*   General Department of Taxation (GDT), which oversees revisions for tax registration application information, number of employees, business signs/billboards, estimated turnover, and representative in patent if the application is returned from GDT [1].
+*   Ministry of Labour and Vocational Training (MLVT), which manages revisions for the number of employees and owner or director details if the application is returned from MLVT [1].
+
+Furthermore, if company information needs to be changed after the application has been approved, a request form must be submitted to the relevant ministry/institution directly for further information [1].",['obr_modify_registratioin_forms'],"['obr_modify_registratioin_forms', 'online_business_registration_guide', 'online_business_registration_guide', 'gdt_tax_faq', 'gdt_tax_faq']",2,5,2,5,[],False
+q020,Can an existing company amend its registration form?,"Yes, an existing company can modify its registered information, although specific procedures apply depending on whether the application is being reviewed or has already been approved.
+
+Methods for amending company information include:
+
+*   **During Application Review:** If your application is returned by a ministry/institution because the initial information was incomplete or incorrect, you can revise details [1].
+    *   **Ministry of Commerce (MOC):** You may revise company details such as name, business activity, address, owner, and representative details [1].
+    *   **General Department of Taxation (GDT):** If returned by GDT, you can revise information including tax registration application details, number of employees, business signs/billboards, estimated turnover, and representative in patent [1].
+    *   **Ministry of Labour and Vocational Training (MLVT):** If returned by MLVT, you can revise details such as the number of employees and owner or director details [1].
+*   **After Approval:** If you need to change company information after your application has been approved, you must submit a request form to the relevant ministry/institution and contact that institution directly for further instructions [1].",['obr_modify_registratioin_forms'],"['obr_modify_registratioin_forms', 'online_business_registration_guide', 'online_business_registration_guide', 'online_business_registration_guide', 'online_business_registration_guide']",5,5,5,5,[],False
+q021,How can streamlined registration support Cambodian MSMEs?,"Streamlined registration processes can provide several key supports for Cambodian MSMEs:
+
+*   **Financial Access:** Official business registration enables MSMEs to expand their access to financial resources by allowing them to open bank accounts and improve creditability with banks and financial institutions [2].
+*   **Market Access:** Registration supports MSMEs in gaining necessary export permits and licenses, which is crucial for integrating them into the global value chain [2].
+*   **Business Development Support:** Streamlining registration helps government departments understand the needs and challenges faced by MSMEs, allowing them to design and deliver targeted business development support programs (tailor-made programmes) [2].
+
+The governmental efforts to promote this are visible through policies such as the ""Guideline For One-Roof Service (ORS) Policy for Registration of Manufacturing Micro-Small and Medium Enterprises (MSMEs) in Cambodia"" [1], with coordination between the Ministry of Industry and Handicraft (MIH), the Royal Government of Cambodia, and international partners like UN DESA [3].",['supporting_msmes_sdgs_cambodia'],"['supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia']",5,5,5,5,[],False
+q022,What links Cambodia MSME formalization to the SDGs?,"Based on the evidence, the formalization of MSMEs in Cambodia is linked to achieving the SDGs through streamlining business registration policies and unlocking their potentials [4]. These initiatives are designed to support MSMEs in achieving the Sustainable Development Goals (SDGs) [1], as documented by collaboration between the Ministry of Industry and Handicraft (MIH), the Royal Government of Cambodia, and the United Nations Department of Economic and Social Affairs [4].",['supporting_msmes_sdgs_cambodia'],"['supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia']",5,5,4,1,[],False
+q023,What barriers to MSME registration are discussed in the UN report?,"The UN report discusses several barriers to MSME formalization and registration in Cambodia:
+
+**1. Access to Finance and Markets:**
+*   Accessing financial resources is limited because microfinance operators tend to be concentrated in Phnom Penh and certain economic areas, restricting access for MSMEs in other regions [3].
+*   Lack of official registration makes it difficult for MSMEs to gain access to international markets [3].
+
+**2. Business Development Support:**
+*   Support services are often designed for registered MSMEs (such as the Entrepreneurship Development Fund and Skills Development Fund), making it challenging for government departments to tailor programs for informal MSMEs [3].
+*   Business development support tends to concentrate in the Phnom Penh capital area, limiting access for informal MSMEs in rural areas [3].
+
+**3. Practical Hurdles of Registration:**
+Despite the benefits of registration (such as improved creditability and better market access) [3], many MSME entrepreneurs remain informal due to:
+*   **Complexity and Time:** The process was previously reported to require an average of 99 days and about 75 licenses from different government departments, without a single guideline providing comprehensive information on necessary steps and documents [3].
+*   **Costs:** There is concern over the high costs and time involved in completing registration [3].
+*   **Operational Concerns:** Some entrepreneurs fear that formalizing their business would lead to losing a competitive edge by incurring higher operating costs, including taxes and fees, compared to remaining unregistered [3].",['supporting_msmes_sdgs_cambodia'],"['supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia']",5,3,5,5,"['Limited access to financial resources is a barrier to MSME registration', 'Lack of access to international markets is a barrier to MSME registration', 'Limited access to business development support is a barrier to MSME registration']",True
+q024,Why is business formalization important for Cambodian MSMEs?,"Official business registration can benefit Cambodian MSMEs by facilitating several areas:
+
+*   **Financial Access:** As registered businesses, MSMEs can improve their creditability and expand access to financial resources from banks and financial institutions, including being able to open bank accounts [3].
+*   **Market Expansion:** Registration supports MSMEs in obtaining necessary export permits and licenses, which is crucial for their integration into the global value chain [3]. The lack of official registration severely limits a business's ability to gain access to international markets [3].
+*   **Business Support Services:** Formalization helps inform government departments about the demands and challenges faced by MSMEs. This information allows government departments and international organizations to better design and deliver tailored business development support programs [3].
+
+Conversely, informal MSME entrepreneurs often face difficulties accessing services (like those provided by the Entrepreneurship Development Fund or Skills Development Fund) because these funds are primarily open only to registered MSMEs [3].",['supporting_msmes_sdgs_cambodia'],"['supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia']",5,5,5,2,[],False
+q025,What policy improvements can streamline MSME registration?,"Policy improvements to streamline MSME registration focus on centralizing fragmented processes, simplifying procedures through digitalization, and establishing dedicated coordinating bodies.
+
+**In Cambodia:**
+Policies have been developed to address the issue of a historically ""fragmented"" registration process that involves different government departments [5]. Key policy initiatives include:
+
+*   **The One-Roof Service (ORS) Policy:** This was launched by the Government of Cambodia, underpinned by the General Department of Small and Medium Enterprise (GDSME/MIH), to systematize MSME registration [1], providing a one-stop service designed to consolidate processes currently fragmented across different Ministries [5].
+*   **Institutional Framework:** The process is supported by the SMEs Development Framework and subsequent policies, such as the MSME Development Policy 2019-2029, developed by the Ministry of Industry and Handicraft (MIH) [5], with MIH providing an office to coordinate policy implementation [5].
+
+**Comparative Policies for Improvement:**
+Reviewing other ASEAN countries highlights several effective policies that could improve Cambodian registration:
+
+*   **Centralized Policy Coordination:** Establishing a single main government department, such as the Ministry of Trade and Industry (MTI) in Singapore, responsible for coordinating MSME development strategies and policies is crucial [3].
+*   **Digital One-Stop Platforms:** Implementing digital solutions like the one used by the Government of Singapore—a comprehensive one-stop platform—allows businesses to conduct online registration and obtain all necessary licenses and permits, including tax registration [3].
+*   **Simplified Procedures:** Streamlining processes by installing simplified procedures for core requirements, such as company registration, tax filing, and social security forms, can improve ease of doing business (as seen in Singapore) [3].",['supporting_msmes_sdgs_cambodia'],"['supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia']",5,5,5,4,[],False
+q026,Where can businesses find official Cambodian tax FAQs?,Businesses can find information related to taxation through the General Department of Taxation (GDT) which has a website at www.tax.gov.kh [2].,['gdt_tax_faq'],"['supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'online_business_registration_guide', 'online_business_registration_guide', 'supporting_msmes_sdgs_cambodia']",5,5,5,2,[],False
+q027,What tax guidance does the General Department of Taxation provide?,"The General Department of Taxation provides guidance on tax obligations, registration procedures, and financial record-keeping requirements for businesses in Cambodia:
+
+**1. Tax Filing and Obligations:**
+*   Registered entities must submit both monthly and annual tax declarations to the General Department of Tax (GDT) [1].
+*   All businesses are obligated to pay tax based on a self-declaration basis, calculated from the enterprise's annual turnover [4].
+*   Businesses have the obligation to file monthly and annual tax declarations, which can cover taxes such as:
+    *   Income Tax (PIT/CIT) [3]
+    *   VAT (Value Added Tax) [3]
+    *   Withholding Tax [3]
+    *   Patenty Tax
+    *   Special Consumption Tax [3]
+
+**2. Procedures and Required Documentation:**
+The GDT outlines specific documents required for tax registration and updates based on the entity type:
+
+*   **General Registration Requirements (for various entities) [3], [5]:** These often include:
+    *   A Certificate of Registration or Permit issued by the Royal Government or relevant ministries/institutions [3].
+    *   The identity card or valid passport of the Head of Institution or Representative, along with documentation for any change in address (Family's Record or Resident Record) [3].
+    *   Title deed or rental agreement of the property containing geographical coordinates [3], [5].
+    *   A Certificate of bank account information issued by the bank (must be provided after tax registration approval) [3], [5].
+
+*   **For Associations and Non-Governmental Organizations (NGOs):** They must complete Form 101-P1 and attach documents including their Statute or Memorandum, alongside a Certificate of Registration or Permit from the Royal Government or relevant ministries/institutions [3].
+*   **For Partnership Companies:** They must fill out Form 101-P4 and submit documents such as:
+    *   A Contract of Partnership [5].
+    *   A Declaration letter confirming no conviction in commercial, civil, or criminal cases, nor being a government official [5].
+
+**3. Record Keeping and Accounting Guidance:**
+*   The GDT emphasizes the necessity of maintaining correct and accurate financial records, even for small businesses [1].
+*   Businesses must set up detailed filing systems, prepare numbered receipts and invoice books, and keep careful copies of every transaction [1].
+*   Users are advised to employ accounting tools, such as keeping track of income and expenses in a system like QuickBooks, to generate monthly, quarterly, and annual financial reports that assist in business analysis and decision-making [1].
+
+**4. Digitalization and Online Services:**
+*   The GDT operates an online tax registration platform (since 2014) [2], which is part of efforts towards establishing a one-stop platform for business services, integrating requirements from various government departments [2].
+*   Taxpayers can monitor data through the General Department of Taxation's online system ([3]).
+
+**5. Specific Tax Rate Guidance:**
+The GDT provides information on withholding tax rates for non-resident taxpayers on certain income types (as per law) [5]:
+*   15% is applied to income from various services (including consulting or management services) provided by individuals not under the self-declaration regime [5].
+*   Rates are set for payments concerning immovable/movable property, bank deposits, and other forms of income derived from specific source countries [5].
+
+***
+**Source Citations:**
+*   General filing requirements and document lists: [3], [5] (These sources contain detailed tax registration documents based on relevant laws/Prakas).
+*   Mandatory reporting and basic record-keeping advice: [1]
+*   Self-declaration principle and post-MOC requirements: [4]
+*   Digital infrastructure development/integration plan: [2]",['gdt_tax_faq'],"['khmersme_starting_business_step_7', 'supporting_msmes_sdgs_cambodia', 'gdt_tax_faq', 'online_business_registration_guide', 'gdt_tax_faq']",5,4,5,4,"['PIT/CIT', 'Patenty Tax']",True
+q028,Where should a new business look for answers to tax questions?,"A new business should look for information regarding tax questions from official sources such as the Ministry of Economy and Finance [1], [2], or the General Department of Taxation [3].
+
+Specifically, guidance can be found:
+*   In general resources provided by the Ministry of Economy and Finance [1], which covers topics like ""Classification of Taxpayers"" [1] and registration procedures.
+*   In specific laws and regulations (Prakas) issued by the General Department of Taxation, such as those detailing requirements for tax registration or e-Filing implementation [3].",['gdt_tax_faq'],"['online_business_registration_guide', 'online_business_registration_guide', 'gdt_tax_faq', 'khmersme_starting_business_step_7', 'online_business_registration_guide']",5,2,2,1,"['The citations [1], [2], and [3] do not exist in the provided evidence.', 'The claim that a business should look for answers from the Ministry of Economy and Finance as a general source of information is an inference; the text only cites specific MEF Prakas (regulations).', 'The answer fails to mention the explicit recommendation in the text to seek support from a bookkeeper, accountant, or service provider for tax matters.']",True
+q029,Which agency publishes Cambodia tax FAQs?,The knowledge base does not contain enough information to answer this question.,['gdt_tax_faq'],"['supporting_msmes_sdgs_cambodia', 'online_business_registration_guide', 'supporting_msmes_sdgs_cambodia', 'technology_adoption_transfer_cambodia', 'online_business_registration_guide']",5,5,5,5,[],False
+q030,How can taxpayers obtain official frequently asked questions?,The knowledge base does not contain enough information to answer this question.,['gdt_tax_faq'],"['khmersme_starting_business_step_7', 'online_business_registration_guide', 'gdt_tax_faq', 'gdt_tax_faq', 'online_business_registration_guide']",5,5,5,5,[],False
+q031,What law governs commercial enterprises in Cambodia?,"Commercial enterprises in Cambodia are governed by the following laws:
+*   The Law on Commercial Enterprise (2005) [1].
+*   The Law Commercial Rule and Register (1999) [1].
+
+These laws stipulate that MSMEs must register with the Ministry of Commerce (MoC) using these acts to obtain corporate certificates [2].",['law_on_commercial_enterprises'],"['supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia']",5,5,5,5,[],False
+q032,Where can I read Cambodia’s Law on Commercial Enterprises?,The knowledge base does not contain enough information to answer this question.,['law_on_commercial_enterprises'],"['supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'technology_adoption_transfer_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia']",5,5,5,5,[],False
+q033,What legal source covers Cambodian company organization?,"A key legal source regarding Cambodian companies is the Law on Commercial Enterprise (2005) [1]. Additionally, other relevant laws include the Law on Administration of Factory and Handicraft (2006) [1] and the Law Commercial Rule and Register (1999) [1].",['law_on_commercial_enterprises'],"['supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia']",5,5,5,5,[],False
+q034,Which document explains rules for commercial enterprises?,Commercial enterprises must adhere to the rules outlined in the Law on Commercial Enterprises and the Law on Commercial Rule and Register [1]. These foundational documents are referenced within the available guidelines [4].,['law_on_commercial_enterprises'],"['supporting_msmes_sdgs_cambodia', 'online_business_registration_guide', 'online_business_registration_guide', 'supporting_msmes_sdgs_cambodia', 'gdt_tax_faq']",5,3,5,1,"['Commercial enterprises must adhere to the rules outlined in the Law on Commercial Enterprises and the Law on Commercial Rule and Register', '[1]', '[4]']",True
+q035,What law should company founders consult?,"Company founders may consult the Law on Investment of the Kingdom of Cambodia [5].
+
+This law addresses various aspects relevant to investors and businesses operating in Cambodia, including:
+*   The protection of intellectual property [5].Article 20.
+*   Rights concerning land use for investment projects, such as through economic land concessions or perpetual leases [5].Articles 21-23.
+*   Details regarding investment incentives and eligible sectors/activities (e.g., high-tech industries) [5].Chapter 6, Article 24.",['law_on_commercial_enterprises'],"['online_business_registration_guide', 'gdt_tax_faq', 'online_business_registration_guide', 'online_business_registration_guide', 'cambodia_investment_law_2021']",5,4,2,1,['The citation [5] is not present in the provided evidence.'],True
+q036,What should Cambodian employers know about labour inspections?,"Cambodian employers should know how they are expected to cooperate with labour inspectors at three stages: before, during, and after the inspection [4].
+
+**Before the Labour Inspection:**
+*   Employers shall cooperate with the labour inspection team or appointed representatives who hold an authorization letter and have decision-making rights [4].
+*   They must prepare necessary documents as outlined in the letter of notification [4].
+
+**During the Labour Inspection:**
+*   Employers are required to participate in the entire process, from beginning to end, of the labour inspection [4].
+*   They must cooperate by providing all relevant documents requested by the labour inspection team [4].
+*   The employer must facilitate and provide an appropriate workplace for the labour inspection team to complete their tasks at the enterprise or establishment [4].
+
+**After the Labour Inspection:**
+*   Employers must review and sign both the report of labour inspection and the letter of corrective order, subsequently disseminating them to all relevant stakeholders [4].
+*   They are responsible for taking necessary measures to correct any irregularities determined by the report and letter of corrective order, and implementing penalties [4].
+*   If required, employers should consult legal experts or other specialists to address outstanding issues [4].
+
+Additionally, labour inspectors can help improve working conditions, occupational health, and safety, as well as harmonize industrial relations, which helps increase productivity, efficiency, and competitiveness by addressing challenges in the implementation of various laws (including labor law, social security schemes, and trade unions law) [4].",['labour_inspection_guide'],"['labour_inspection_guide', 'labour_inspection_guide', 'labour_inspection_guide', 'labour_inspection_guide', 'cambodia_investment_law_2021']",5,5,5,2,[],False
+q037,Which ministry provides guidance on labour inspections?,"The Ministry that provides guidance on labour inspections is the Ministry of Labour and Vocational Training (MLVT) [1], [2], [3].",['labour_inspection_guide'],"['labour_inspection_guide', 'labour_inspection_guide', 'labour_inspection_guide', 'labour_inspection_guide', 'labour_inspection_guide']",5,5,5,2,[],False
+q038,How can a business prepare for a labour inspection?,"To prepare for a labour inspection, employers are advised to take the following steps [1]:
+
+Before the inspection:
+*   Cooperate with the labour inspection team or their appointed representatives who hold an authorization letter and have decision-making rights [1].
+*   Prepare documents for inspectors as specified in the notification letter [1].
+
+During the inspection, employers should be prepared to:
+*   Participate in the entire process of the labour inspection [1].
+*   Cooperate fully and provide any relevant documents requested by the labour inspection team [1].
+*   Facilitate an appropriate workplace for the labour inspection team to carry out their tasks at the establishment [1].",['labour_inspection_guide'],"['labour_inspection_guide', 'labour_inspection_guide', 'labour_inspection_guide', 'labour_inspection_guide', 'labour_inspection_guide']",5,5,4,1,[],False
+q039,Where are Cambodian labour inspection procedures explained?,"Understanding of Cambodian labour inspections can be found in leaflets prepared by the Ministry of Labour and Vocational Training (MLVT) to disseminate knowledge to the public, employers, employees, and related stakeholders [1].
+
+Specifically:
+*   The MLVT established a joint labour inspection team to conduct inspections of enterprises and establishments [3]. This team includes departments such as the Department of Labour Inspection, Department of Occupational Safety and Health, and others [3].
+*   Labour inspection itself is described as a system to monitor law enforcement in the labour sector, implemented by designated officials (such as labour inspectors or labor administrative inspectors) [1].
+*   For more information regarding labour inspection, contact details for the Ministry of Labour and Vocational Training Department of Labour Inspection are provided [2].",['labour_inspection_guide'],"['labour_inspection_guide', 'labour_inspection_guide', 'labour_inspection_guide', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia']",5,5,5,5,[],False
+q040,What guide helps employers understand labour inspections?,"According to the Ministry of Labour and Vocational Training (MLVT), a leaflet was prepared to promote an understanding of labour inspection among employers, employees, and other related stakeholders [5]. This pamphlet aims to help disseminate understanding of labour inspection in compliance with policies regarding social and labour standards [5].",['labour_inspection_guide'],"['labour_inspection_guide', 'labour_inspection_guide', 'labour_inspection_guide', 'labour_inspection_guide', 'labour_inspection_guide']",5,5,5,5,[],False
+q041,What are the main stages of starting a business in Cambodia?,"Based on the evidence, starting and operating a business in Cambodia involves several main mandatory stages:
+
+**1. Preparation and Initial Steps:**
+*   Reviewing different types of business structures to determine the most suitable option for your needs [2].
+*   Selecting and checking the availability of a business name [2].
+*   Creating a formal plan, such as a business plan or using a Business Model Canvas, which is recommended when seeking outside financing [3], [1].
+
+**2. Core Registration Process (Main Steps):**
+The main steps for registering a business, whether through the One Portal system or a service provider, generally include:
+*   Name Search and confirmation of the name [1], [2].
+*   Business registration with the Ministry of Commerce (MOC) [1]. For MSMEs in the manufacturing sector, obtaining corporate certificates from the MoC is required under law [4]. The process at the MOC involves creating an online account, submitting required documents, and receiving corporate certificates [4].
+*   Tax registration with the General Department of Taxation (GDT) [1]. As a registered entity, you must submit monthly and annual tax declarations to the GDT [1].
+*   Declaration of opening with the Ministry of Labor and Vocational Training (MoLVT) [1]. For MSMEs in the manufacturing sector, registration is required from various departments including MoC, GDT, MLVT, and MIH, and business registration may only be completed after successful registration with all four [4].
+*   Obtaining licenses and other requirements necessary based on the specific operations and industry of the business [1].
+
+**3. Employee and Branding Compliance:**
+*   If you have staff members, you must apply for the National Social Security Fund (NSSF) [1], [2].
+*   You may also choose to register a trademark to protect brand assets such as your business name or logo [1].",['khmersme_starting_business'],"['khmersme_starting_business', 'khmersme_starting_business_step_5', 'khmersme_starting_business', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia']",5,5,5,5,[],False
+q042,Where can Cambodian entrepreneurs find startup guidance?,"Cambodian entrepreneurs can find startup guidance through several sources:
+
+*   **Official Government Systems:** To prepare and start a business, the One Portal system from the Ministry of Economy and Finance is recommended [2]. This process involves multiple steps with various governmental departments, including registering with the MOC (Ministry of Commerce), getting tax registration with GDT (General Department of Tax), declaring opening with MoLVT (Ministry of Labour and Vocational Training), and securing necessary licenses [2].
+*   **Resource Networks:** For guidance on funding decisions, entrepreneurs can seek ""counselling services through our resource partner network (see Service Providers)"" [2].",['khmersme_starting_business'],"['supporting_msmes_sdgs_cambodia', 'khmersme_starting_business', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia']",5,5,5,5,[],False
+q043,What should I consider before starting a small business?,"Before starting a small business, you should consider several key areas ranging from self-evaluation and market viability to formal planning and legal requirements.
+
+**1. Readiness and Strategy:**
+*   **Self-Assessment:** Critically evaluate whether entrepreneurship is suitable for you, recognizing that owning a business requires effort and commitment, and profitability may take time [3], [4].
+*   **Idea Refinement:** Utilize tools such as the Business Model Canvas (BMC) to structure your thinking regarding key elements like value proposition, customer segments, revenue streams, channels, cost structure, and key partners [4].
+*   **Planning:** Create a business plan, which acts as a ""road map"" to help you manage goals and track progress. Even if you are starting small, this plan should outline how much money is needed, how to achieve profitability, and the longer-term vision [1].
+
+**2. Market Research and Validation:**
+*   **Target Market:** Understand your potential customers by gathering primary research (through surveys or interviews) and secondary research using existing data like government statistics [4]. You must understand their needs, pain points, and how they make purchasing decisions [4].
+*   **Competition:** Research competitors thoroughly. Learn what value they provide and identify anything they are missing. Simultaneously, check for market saturation to determine if the area is already too crowded [1], [4].
+*   **Differentiation:** Define your Unique Selling Proposition (USP). Simply copying another idea is not effective; you must explain how you will stand out—whether through specialized service, lower price, or a unique offering [1].
+*   **Testing:** Validate your idea by field testing it. Speak with potential customers or run pre-sale campaigns to gauge genuine interest and willingness to pay for your product or service [1].
+
+**3. Legal Requirements in Cambodia:**
+*   **Registration is mandatory:** To start and operate a business in Cambodia, you must get registered [1].
+*   **Process Guidance (Official):** The process can be initiated through the One Portal system, supported by a User Guide from the Ministry of Economy and Finance [1], [2].
+*   **Required Steps:** The general steps for registration include:
+    *   Name Search and confirmation [2].
+    *   Business registration with the MOC [2].
+    *   Tax registration with GDT (General Department of Tax) [2].
+    *   Declaration of opening with MoLVT [2].
+    *   Obtaining necessary licenses, as additional permits may be required based on your industry and activities [2].
+*   **Staffing/Branding:** If you have staff members, you must apply for the National Social Security Fund (NSSF) [2]. You may also consider registering a trademark to protect your brand assets [2].",['khmersme_starting_business'],"['khmersme_starting_business', 'khmersme_starting_business', 'khmersme_starting_business_step_1', 'khmersme_starting_business', 'online_business_registration_guide']",5,5,4,2,[],False
+q044,Which KhmerSME resource gives an overview of starting a business?,The knowledge base does not contain enough information to answer this question.,['khmersme_starting_business'],"['supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia']",5,5,5,5,[],False
+q045,How can KhmerSME help a first-time entrepreneur?,The knowledge base does not contain enough information to answer this question.,['khmersme_starting_business'],"['supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia']",5,5,5,5,[],False
+q046,How should a Cambodian entrepreneur conduct market research?,"To conduct market research, an entrepreneur should:
+
+1.  **Analyze the Market and Competition:**
+    *   Examine competitors to determine what value they provide and where gaps exist [1].
+    *   Check if the intended market is saturated; if so, develop a Unique Selling Proposition (USP) to stand out from others, such as by offering specialized service or a lower price [1].
+    *   Determine the potential market size and the portion that can be captured [1].
+
+2.  **Validate the Idea:**
+    *   Field test the product or service by speaking with potential customers to gauge their interest and willingness to pay [1].
+    *   Methods for gauging interest include sending out surveys, talking to people in person or on social media, running ads, or attempting a pre-sale campaign [1].",['khmersme_starting_business_step_3'],"['khmersme_starting_business', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia']",5,5,5,5,[],False
+q047,Why is market research important before launching a business?,"Market research is essential before launching a business because it helps you understand your customers and target market [1], [3]. It allows you to make informed decisions regarding the marketing of your products and services [1], [3].
+
+Key reasons for conducting market research include:
+
+*   **Understanding Customers:** You must understand who will buy your product, their needs and pain points, how they make purchasing decisions, and how you can reach and communicate with them [1], [3].
+*   **Assessing Competition and Saturation:** Market research helps you know your competition so you can beat them [1], [3]. It is also crucial to check for market saturation, ensuring there are enough customers for the type of business you plan to run [1].
+*   **Validating Your Idea:** You should field test your idea, product, or service by speaking with potential customers and gathering feedback to gauge their interest and willingness to pay [5].
+
+Additionally, secondary research allows you to use data already collected and analyzed by others, such as government statistics and trade publications [1], [3].",['khmersme_starting_business_step_3'],"['khmersme_starting_business_step_3', 'supporting_msmes_sdgs_cambodia', 'khmersme_starting_business', 'khmersme_starting_business_step_1', 'khmersme_starting_business']",5,5,5,2,[],False
+q048,What should market research cover for a startup?,"Market research should cover several key areas to help a startup understand its customers and target market [1].
+
+According to the evidence, the scope of market research should include:
+
+*   **Target Audience Evaluation:** You must understand who will purchase your product or service, why they will buy it, what their needs and pain points are, how they make purchasing decisions, where you can reach them, and how you will communicate with them [1].
+*   **Competition and Market Saturation Analysis:** Research is needed on knowing the competition so that you can beat them and prevent them from losing customers [1]. Specifically, study how competitors attract customers and what value they provide [1], [5]. Simultaneously, check if the market may already be saturated with numerous businesses offering similar products or services [1]. If entering a crowded market, defining a Unique Selling Proposition (USP) is essential, such as having a more specialized service, a lower price, or something nobody else offers; simply copying another idea is not a winning approach [1], [5].
+*   **Market Potential:** You need to understand the overall market size and the portion of this that you can potentially capture [1], [5].
+*   **Idea Validation (Field Testing):** It is important to field test your idea, product, or service. This involves speaking with potential customers to gauge their interest level and whether they are willing to pay for your proposed offering. Methods include sending out surveys, talking to people in person or on social media, running advertisements, or attempting a pre-sale campaign [1], [5].
+
+Market research can utilize primary data (gathering first-hand information through interviews and surveys) and secondary data (using data that has already been collected by others, such as government statistics and trade publications) [1].",['khmersme_starting_business_step_3'],"['khmersme_starting_business_step_3', 'technology_adoption_transfer_cambodia', 'technology_adoption_transfer_cambodia', 'technology_adoption_transfer_cambodia', 'khmersme_starting_business']",5,4,5,2,['prevent them from losing customers'],True
+q049,Where can I learn about researching a Cambodian market?,"For training sessions or professional certificates in Market Research, you are advised to explore the extensive offerings available in the EVENTS & TRAININGS section, which contains educational resources and study materials to enhance your skills [2].
+
+Generally, conducting market research involves:
+*   Checking for market saturation by analyzing if the area is already crowded with similar businesses offering products or services [2].
+*   Identifying a Unique Selling Proposition (USP) so you can stand out in a crowded market [2].
+*   Validating your idea by speaking to potential customers and gathering feedback through surveys, talking in person, running ads, or attempting pre-sale campaigns [2].",['khmersme_starting_business_step_3'],"['supporting_msmes_sdgs_cambodia', 'khmersme_starting_business', 'labour_inspection_guide', 'technology_adoption_transfer_cambodia', 'supporting_msmes_sdgs_cambodia']",5,5,5,1,[],False
+q050,At which startup stage should market research be conducted?,The knowledge base does not contain enough information to answer this question.,['khmersme_starting_business_step_3'],"['khmersme_starting_business_step_3', 'technology_adoption_transfer_cambodia', 'technology_adoption_transfer_cambodia', 'technology_adoption_transfer_cambodia', 'technology_adoption_transfer_cambodia']",1,1,1,1,['The knowledge base does not contain enough information to answer this question.'],True
+q051,How should an entrepreneur write a business plan?,"A formal business plan typically includes several key elements [4]. These core components are:
+
+*   Executive Summary
+*   Your team
+*   Company overview
+*   Industry and Market Analysis
+*   Marketing Plan
+*   Operational Plan
+*   Financial Strategy [4]
+
+The type and level of detail required in the plan depend on its ultimate purpose [1], [4]:
+
+*   If you are seeking investment or a loan, you must describe your operations and financial forecasts in greater detail than if the plan is only for internal guidance [1], [4].
+*   Even if starting small with personal funds, a business plan serves as a roadmap to help manage goals, track progress, and plan required funding and profitability [1].
+
+For support while writing the plan, you can check lists of training opportunities or service providers [1], [4].",['khmersme_starting_business_step_4'],"['khmersme_starting_business_step_4', 'online_business_registration_guide', 'khmersme_starting_business_step_8', 'khmersme_starting_business', 'online_business_registration_guide']",5,5,5,5,[],False
+q052,What is the purpose of a startup business plan?,"The purpose of a business plan depends on whether it is intended for internal use or external financing, but generally, it serves several key functions:
+
+1.  **For Financing and Investment:** A business plan is mandatory if you are seeking outside funding through a loan or investment [1], [2]. If the goal is to raise capital, the document must describe operations and financial forecasts in greater detail compared to an internal plan [1], [2].
+2.  **For Planning and Strategy (Internal/External):** It acts as a roadmap for the business, serving as a tool to help manage goals and track progress [1], [2]. Even if starting small with personal funds, it helps plan:
+    *   How much money is needed to start [1], [2].
+    *   How to achieve profitability [1], [2].
+    *   What actions need to be taken and what the long-term future should look like [1], [2].
+3.  **For Review and Growth:** The plan can also be used in conjunction with tools like the Business Model Canvas to re-evaluate and reassess strategy for future growth based on real-world experience [3].
+
+***
+
+*Note: While a business plan is useful regardless of purpose, if you are only using it as an internal document, you do not need to provide as much detail as when seeking investment or a loan [1], [2].*",['khmersme_starting_business_step_4'],"['khmersme_starting_business_step_4', 'khmersme_starting_business', 'khmersme_starting_business_step_8', 'khmersme_starting_business_step_2', 'khmersme_starting_business']",5,5,5,3,[],False
+q053,Where can Cambodian SMEs find business plan guidance?,The knowledge base does not contain enough information to answer this question.,['khmersme_starting_business_step_4'],"['supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia']",5,5,5,5,[],False
+q054,What should be planned before business operations begin?,"Before business operations begin, several critical areas must be planned and addressed, including refining the business idea, conducting thorough market research, formalizing plans in a Business Plan, and completing legal registration requirements.
+
+**1. Idea Validation and Planning:**
+*   **Evaluate Readiness:** First, an entrepreneur should critically evaluate themselves to ensure they are prepared for the effort and commitment required for owning a business [3], [5].
+*   **Refine the Concept:** Use tools like the Business Model Canvas to refine your initial idea. This helps define key areas such as customer segments, value proposition (what problems you solve), revenue streams, channels, key activities, key resources, key partners, and cost structure [5].
+*   **Market Research:** Conduct market research using both primary (surveys, interviews) and secondary data (government statistics) sources [5]. This step helps determine the target audience, their needs, pain points, and how they make purchasing decisions [5]. Competition should be researched to identify what value competitors provide and where they might have gaps [5].
+*   **Address Market Saturation:** If entering an already crowded market, it is essential to define a Unique Selling Proposition (USP) to ensure the business stands out [4].
+
+**2. Documentation (The Business Plan):**
+A formal business plan is required whether seeking external financing or simply for internal guidance, as it serves as a roadmap for managing goals and tracking progress [1], [4]. The content should be detailed, particularly regarding operations and financial forecasts if raising investment or loans [1]. Most formal plans contain elements such as:
+*   Executive Summary [4]
+*   Company overview [4]
+*   Industry and Market Analysis [4]
+*   Marketing Plan [4]
+*   Operational Plan [4]
+*   Financial Strategy (including projections on how much money is needed to get started and how the business will become profitable) [1], [4].
+
+**3. Legal and Operational Setup in Cambodia:**
+To start and operate a business, registration must occur using official channels:
+*   **Registration Process:** In Cambodia, new businesses are registered through the One Portal system, following guidelines provided by the Ministry of Economy and Finance [2], [4]. Key steps include:
+    1. Name Search and confirmation [2], [4].
+    2. Business registration with MOC (Ministry of Commerce) [2], [4].
+    3. Tax registration with GDT (General Department of Tax) [2], [4].
+    4. Declaration of opening with MoLVT (Ministry of Labour and Vocational Training) [2], [4].
+*   **Licenses and Permits:** Businesses must secure additional licenses and permits, which are dependent on the specific industry and type of operation [2].
+*   **Trademarks:** It is advisable to register a trademark to protect brand assets like names or logos [2].",['khmersme_starting_business_step_4'],"['khmersme_starting_business_step_4', 'khmersme_starting_business', 'khmersme_starting_business_step_1', 'khmersme_starting_business', 'khmersme_starting_business']",5,5,5,1,[],False
+q055,Why does a new business need a written plan?,"A business plan serves multiple purposes for a new business:
+
+*   **For Financing:** It is mandatory if the business plans to secure outside financing through a loan or investment [1], [3]. When seeking investment or a loan, the plan must describe operations and financial forecasts in significant detail [1], [3].
+*   **For Internal Guidance (Regardless of Funding):** Even if you are starting small using your own funds, a business plan acts as a roadmap for the business and can help with:
+    *   Planning how much money is needed to get started [1], [3].
+    *   Determining how to become profitable [1], [3].
+    *   Outlining necessary actions and what the longer-term future looks like [1], [3].
+    *   Serving as a tool to manage goals and track progress [1], [3].",['khmersme_starting_business_step_4'],"['khmersme_starting_business_step_4', 'online_business_registration_guide', 'khmersme_starting_business', 'khmersme_starting_business_step_8', 'online_business_registration_guide']",5,5,5,1,[],False
+q056,How can an entrepreneur make a Cambodian business legal?,"To make a business legal in Cambodia, an entrepreneur must get registered and can utilize the One Portal system for this process, which has a User Guide provided by the Ministry of Economy and Finance [1], [3].
+
+The general steps involve:
+
+**Preparation and Registration:**
+*   Reviewing different types of business structures to determine the best fit for your venture [3].
+*   Deciding on a name and confirming its availability [3].
+*   Commencing the main registration process, which includes these core stages:
+    1.  Name Search and confirmation [1].
+    2.  Business registration with the MOC (Ministry of Commerce) [1].
+    3.  Tax registration with GDT (General Department of Tax) [1].
+    4.  Declaration of opening with MoLVT (Ministry of Labour and Vocational Training, or related ministry) [1].
+    5.  Obtaining necessary licensing and permits; these requirements vary based on the type of business and industry [1].
+
+**Other Requirements:**
+*   If you have staff members, you will need to apply for National Social Security Fund (NSSF) coverage [1].
+*   You may also choose to register a trademark to protect your brand assets, such as your logo or business name [1].",['khmersme_starting_business_step_5'],"['khmersme_starting_business', 'supporting_msmes_sdgs_cambodia', 'khmersme_starting_business', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia']",5,5,5,5,[],False
+q057,What registration step makes a startup legally compliant?,"Completing the business registration procedure through the new IT business registration platform (Single Portal) allows a business to obtain digital licenses or certificates within up to 8 working days, making it legally compliant [2].",['khmersme_starting_business_step_5'],"['online_business_registration_guide', 'online_business_registration_guide', 'supporting_msmes_sdgs_cambodia', 'online_business_registration_guide', 'obr_who_can_register']",4,3,1,1,['making it legally compliant'],True
+q058,Where does KhmerSME explain business legalization?,The knowledge base does not contain enough information to answer this question.,['khmersme_starting_business_step_5'],"['supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia']",5,5,5,5,[],False
+q059,What legal formalization should a new business consider?,"A new business must select an appropriate form of enterprise or legal structure, which may include:
+
+**Primary Forms of Enterprises:**
+*   Sole Proprietorship: This form has a single owner, is considered an unlimited liability company, and is not a legal entity; its assets and liabilities belong to the proprietor [3].
+*   Partnership: A partnership is formed by a contract between two or more persons. It can be general or limited [3], is managed by general partners, and is a legal entity [3].
+*   Company (Limited Liability Company/LLC): This type of enterprise has separated legal entity from its shareholders; the shareholders are responsible only for the number of shares they have bought [1], [3]. A company structure may include either a private limited company or a public limited company [1], [3].
+*   Public Limited Company: This is authorized by law to issue securities to the public, distinguishing it from a private limited company [1].
+
+**Foreign Business Structures:**
+If the business is related to a foreign entity, three sub-forms may apply:
+*   Foreign branch office [1], [3]
+*   Commercial representative office [1], [3]
+*   Subsidiary: Any subsidiary must be registered in the form of a partnership or company [3].
+
+**Post-Registration Requirements:**
+Regardless of the initial legal structure, a business should also consider applying for specialized licenses depending on its activities (e.g., obtaining specialized licenses from the Ministry of Tourism if running both a hotel and restaurant) [5].",['khmersme_starting_business_step_5'],"['online_business_registration_guide', 'online_business_registration_guide', 'online_business_registration_guide', 'gdt_tax_faq', 'obr_post_registration_obligations']",5,5,5,1,[],False
+q060,When should a startup address legal registration?,The knowledge base does not contain enough information to answer this question.,['khmersme_starting_business_step_5'],"['online_business_registration_guide', 'online_business_registration_guide', 'gdt_tax_faq', 'online_business_registration_guide', 'online_business_registration_guide']",5,5,5,5,[],False
+q061,What financing options should a Cambodian startup consider?,"A Cambodian startup may consider several financing options and funding approaches, including:
+
+**Funding Approaches:**
+*   Self-funding through personal resources [2].
+*   Securing venture capital from investors [2].
+*   Utilizing crowdfunding methods [2].
+*   Obtaining a small business loan or accessing SME investment programs [2].
+
+**Types of Financing and Support:**
+For financing specific areas of the business (such as property, vehicles, machinery, tools, or inventory), available options include:
+*   Loans from a bank or Microfinance Institution (MFI) [2].
+*   A line of credit [2].
+*   Leasing arrangements [2].
+*   Trade credit provided by suppliers [2].
+*   Investments and loans [2].",['khmersme_starting_business_step_6'],"['khmersme_starting_business', 'khmersme_starting_business', 'supporting_msmes_sdgs_cambodia', 'khmersme_starting_business_step_5', 'supporting_msmes_sdgs_cambodia']",5,5,5,1,[],False
+q062,How can an entrepreneur prepare to finance a business?,"To prepare for financing a business, entrepreneurs can take several steps:
+
+1.  **Create a Business Plan:** If you intend to get outside financing through a loan or investment, developing a business plan is mandatory [4]. This document serves as a road map that helps you outline how much money you will need and how the business plans to achieve profitability [4]. For seeking investment or a loan specifically, this plan must describe your operations and financial forecasts in greater detail than if it were only for internal guidance [4].
+2.  **Consider Investor Expectations:** Be aware that investors, such as venture capitalists and business angels, may expect the company to have some existing self-funding or existing equity before they will invest [2].
+3.  **Identify Funding Needs:** When preparing your approach, consider various funding methods whether you are starting from scratch or acquiring an established business or franchise [2]. You may also need financing for specific assets such as inventory, machinery, vehicles, and property [2].",['khmersme_starting_business_step_6'],"['khmersme_starting_business', 'khmersme_starting_business_step_6', 'khmersme_starting_business_step_1', 'khmersme_starting_business_step_4', 'online_business_registration_guide']",5,5,5,5,[],False
+q063,Where can SMEs find guidance on business financing?,The knowledge base does not contain enough information to answer this question.,['khmersme_starting_business_step_6'],"['supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia']",5,5,5,5,[],False
+q064,What should founders assess before seeking startup funds?,"Before seeking startup funds, founders should thoroughly assess several key areas related to market viability and business planning [2]:
+
+**Market Assessment and Differentiation:**
+*   Assess competitors by determining what value they provide and what they are missing from the market, while also checking for potential saturation [2].
+*   Determine if there are enough customers for the proposed type of business (e.g., a coffee shop or flower shop) [2].
+*   If entering a crowded market, founders must define their Unique Selling Proposition (USP) to differentiate themselves, such as offering specialized services or lower prices [2].
+
+**Validation and Planning:**
+*   Conduct field tests for the idea, product, or service by speaking to potential customers to gauge interest and determine if they would be willing to pay for it. Methods include sending out surveys, talking in person, running ads, or attempting a pre-sale campaign [2].
+*   Develop a business plan, which serves as a road map. This is essential whether starting small with personal funds or seeking external financing through a loan or investment [2].
+*   A formal business plan typically includes elements such as an Executive Summary, Company overview, Industry and Market Analysis, Marketing Plan, Operational Plan, and Financial Strategy [2].
+
+**Financial Readiness:**
+*   Be aware that investors, such as venture capitalists or business angels, may require a certain level of existing self-funding or existing equity in the business before investing [1].",['khmersme_starting_business_step_6'],"['khmersme_starting_business_step_6', 'khmersme_starting_business', 'gdt_tax_faq', 'khmersme_starting_business_step_1', 'technology_adoption_transfer_cambodia']",5,5,5,2,[],False
+q065,At what stage should financing be planned?,The knowledge base does not contain enough information to answer this question.,['khmersme_starting_business_step_6'],"['khmersme_starting_business', 'khmersme_starting_business_step_6', 'technology_adoption_transfer_cambodia', 'khmersme_starting_business_step_4', 'gdt_tax_faq']",1,1,1,1,['The knowledge base does not contain enough information to answer this question.'],True
+q066,What law governs investment in Cambodia?,"The overarching law that governs investment in Cambodia is the Law on Investment of the Kingdom of Cambodia [1], [2], [3], [4], and [5].",['cambodia_investment_law_2021'],"['cambodia_investment_law_2021', 'cambodia_investment_law_2021', 'cambodia_investment_law_2021', 'cambodia_investment_law_2021', 'cambodia_investment_law_2021']",5,5,5,5,[],False
+q067,What does Cambodia’s 2021 investment law cover?,The knowledge base does not contain enough information to answer this question.,['cambodia_investment_law_2021'],"['cambodia_investment_law_2021', 'cambodia_investment_law_2021', 'cambodia_investment_law_2021', 'cambodia_investment_law_2021', 'cambodia_investment_law_2021']",1,1,1,1,['The knowledge base does not contain enough information to answer this question.'],True
+q068,Where can investors read the Law on Investment?,The knowledge base does not contain enough information to answer this question.,['cambodia_investment_law_2021'],"['cambodia_investment_law_2021', 'cambodia_investment_law_2021', 'cambodia_investment_law_2021', 'cambodia_investment_law_2021', 'cambodia_investment_law_2021']",5,5,5,5,[],False
+q069,Which official source explains Cambodian investment rules?,"According to the provided evidence, the primary official source that explains Cambodian investment rules is the **Law on Investment of the Kingdom of Cambodia**.
+
+Specific provisions related to these rules are detailed within several sections and pages of this law:
+
+*   **General Provisions and Definitions:** The Law establishes the aim of attracting investments for socio-economic development by promoting an open, transparent, predictable, and favorable legal framework [3]. It defines key terms such as ""Qualified Investment Project"" (QIP), ""Expanded Qualified Investment Project"" (EQIP), and ""Guaranteed Investment Project"" (GIP) [3].
+*   **Investment Guarantees and Protection:** The law outlines investor protections, stating that the State shall not undertake nationalization or expropriation of investments without meeting conditions such as non-discrimination and fair compensation [4]. Furthermore, investors are entitled to repatriate foreign currencies associated with their investment [4].
+*   **Implementation and Transitory Provisions:** The Law stipulates how it is implemented, noting that upon its entry into force, the Royal Government of Cambodia must issue a Sub-Decree for comprehensive implementation [2].",['cambodia_investment_law_2021'],"['cambodia_investment_law_2021', 'cambodia_investment_law_2021', 'cambodia_investment_law_2021', 'cambodia_investment_law_2021', 'supporting_msmes_sdgs_cambodia']",5,5,5,5,[],False
+q070,What legal framework should a prospective investor consult?,"A prospective investor should consult the Law on Investment of the Kingdom of Cambodia, as this law aims to establish an ""open, transparent, predictable and favorable legal framework"" for investment [1].
+
+Additionally, investors must be aware of several other regulatory frameworks:
+
+*   **General Legal Provisions:** The law governs rights such as the protection of intellectual property in accordance with Cambodian laws and regulations [2]. Furthermore, state guarantees include protections against discrimination regarding restitution or compensation, provided that there are ""laws and policies of the Royal Government of Cambodia"" governing such remedies [4].
+*   **Taxation Laws:** Investment must also comply with relevant tax laws and regulations, as demonstrated by documentation concerning tax registration requirements for various legal entities (e.g., Qualified Investment Projects) [3].",['cambodia_investment_law_2021'],"['cambodia_investment_law_2021', 'cambodia_investment_law_2021', 'gdt_tax_faq', 'cambodia_investment_law_2021', 'gdt_tax_faq']",5,5,5,5,[],False
+q071,What steps should an investor follow in Cambodia?,"An investor should follow several phases of preparation and compliance in Cambodia, incorporating both initial market research/planning and formal registration steps:
+
+**1. Planning and Preparation:**
+*   Develop a business plan, which serves as a road map to help manage goals and track progress [3].
+*   Research the available different types of business structures, determining which one is most suitable for your venture, and decide on an available name [5].
+*   Assess the market by analyzing competitors, their value proposition, potential market saturation, and identifying a Unique Selling Proposition (USP) to stand out [3].
+
+**2. Registration and Formal Procedures:**
+*   Register the new business via the One Portal system, utilizing the User Guide provided by the Ministry of Economy and Finance for preparation details [1], [5].
+*   Specific procedures for registering an Investment Project with Municipal-Provincial Investment Sub-Committees shall be determined by a separate Sub-Decree (Article 14, [2]).
+*   Upon establishing an investment project, the investor is entitled to receive after-care services from the CDC or a Municipal-Provincial Investment Sub-Committee [4].
+
+**3. Key Legal Considerations and Investor Rights:**
+As detailed in the Law on Investment, investors are guaranteed various rights:
+*   **Protection:** Investors will be treated without discrimination regarding restitution, compensation, or economic remedies if their investment suffers losses due to armed conflict, civil disturbance, or state of emergency [2]. The State cannot undertake nationalization or expropriation that affects an approved Investment Project, except for public interest and provided conditions of non-discrimination, fair compensation, and compliance with law are met (Article 17, [2]).
+*   **Currency:** Investors have the right to freely purchase foreign currencies and repatriate them to settle financial obligations associated with the investment, which include initial capital contributions, income/royalties, dividends, interest payments, and compensation from various sources [2].
+*   **Labor:** The investor has the right to hire foreign employees to operate the project if qualified Cambodian employees cannot be found (Article 22, [4]).",['cdc_investment_guide'],"['khmersme_starting_business', 'cambodia_investment_law_2021', 'khmersme_starting_business', 'cambodia_investment_law_2021', 'khmersme_starting_business_step_5']",5,5,3,1,[],False
+q072,Where is Cambodia’s step-by-step investment guide?,"The process and steps for starting a business in Cambodia are outlined using the One Portal system [1].
+
+The main steps involved in registering a business include:
+*   Name Search and confirmation [1].
+*   Business registration with the MOC (Ministry of Commerce) [1].
+*   Tax registration with GDT (General Department of Tax) [1].
+*   Declaration of opening with MoLVT (Ministry of Labour and Vocational Training) [1].
+*   Obtaining Licensing and other requirements based on operations and industry, which may require securing additional licenses and permits depending on the type of business [1].
+
+Furthermore, once registered, mandatory activities include applying for National Social Security Fund (NSSF) if you have staff members [1], and submitting monthly and annual tax declarations to the General Department of Tax (GDT) [1].",['cdc_investment_guide'],"['khmersme_starting_business', 'cambodia_investment_law_2021', 'cambodia_investment_law_2021', 'technology_adoption_transfer_cambodia', 'supporting_msmes_sdgs_cambodia']",5,3,5,2,"['MOC (Ministry of Commerce)', 'MoLVT (Ministry of Labour and Vocational Training)']",True
+q073,Which agency guides investors through Cambodian procedures?,"The Council for the Development of Cambodia (CDC) acts as an executive body and One-Stop Service of the Royal Government of Cambodia responsible for overseeing and managing private investment [1].
+
+Additionally, investor procedures are handled by:
+*   Municipal-Provincial Investment Sub-Committees, which serve as the ""Etat-Major"" at the municipal-provincial level for reviewing and approving private investments [1], [2].
+*   The law applies to projects registered with either the Council for the Development of Cambodia or Municipal-Provincial Investment Sub-Committees [3].",['cdc_investment_guide'],"['cambodia_investment_law_2021', 'cambodia_investment_law_2021', 'cambodia_investment_law_2021', 'khmersme_starting_business', 'supporting_msmes_sdgs_cambodia']",5,5,5,5,[],False
+q074,How can a prospective investor understand the investment process?,"To understand the investment process, a person wishing to implement a Qualified Investment Project (QIP), Expanded Qualified Investment Project (EQIP), or Guaranteed Investment Project (GIP) must follow these steps:
+
+1.  **Submission of Application:** Submit a written application to either the Council for the Development of Cambodia (CDC) or a Municipal-Provincial Investment Sub-Committee [3]. This application may be submitted through information technology platforms [3].
+2.  **Required Information:** The investment project application must be accompanied by information specified in a Sub-Decree [3].
+3.  **Review Process:** Upon receipt, the CDC reviews the application using the One-Stop Service mechanism [3].
+4.  **Issuance of Certificate:** If the proposed Investment Project is not listed on the Negative List, the CDC will issue the Registration Certificate within 20 Working Days [3].
+5.  **Implementation and Compliance:** Obtaining a Registration Certificate allows for automatic implementation of the project; however, it does not exempt the investor from obtaining other permits required by existing laws and regulations [3]. Furthermore, all projects are subject to monitoring and inspection via the One-Stop Service mechanism, and the person carrying out the project must provide reports on its implementation according to a specific schedule set by the CDC [3].",['cdc_investment_guide'],"['cambodia_investment_law_2021', 'cambodia_investment_law_2021', 'cambodia_investment_law_2021', 'khmersme_starting_business_step_6', 'gdt_tax_faq']",5,5,5,5,[],False
+q075,What practical guide supports investment setup in Cambodia?,"Practical guides supporting setup and registration in Cambodia include:
+
+*   The Guideline For One-Roof Service (ORS) Policy for Registration of Manufacturing Micro-Small and Medium Enterprises (MSMEs) in Cambodia [2].
+*   The MIH/2016 on Procedure and guideline on the establishment of factory and enterprise. 2016, issued by the Ministry of Industry and Handicraft [3].
+
+Furthermore, other related legal guidelines for business establishment include:
+
+*   Joint Prakas on “providing public service and transactional fine as cash” (2015) from the Ministries of Industry and Handicraft and Economics and Finance [4].
+*   The Law on Administration of Factory and Handicraft (2006) [4], the Law on Commercial Enterprise (2005), and the Law on Commercial Rule and Register (1999) [4].",['cdc_investment_guide'],"['supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'supporting_msmes_sdgs_cambodia', 'cambodia_investment_law_2021']",5,5,4,1,[],False

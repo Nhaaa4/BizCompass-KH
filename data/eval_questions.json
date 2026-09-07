@@ -1,0 +1,602 @@
+[
+  {
+    "id": "q001",
+    "question": "What information is needed before starting online business registration?",
+    "expected_source_ids": [
+      "online_business_registration_guide"
+    ],
+    "expected_answer": "The answer should be supported by source online_business_registration_guide and should not add unsupported claims."
+  },
+  {
+    "id": "q002",
+    "question": "How does Cambodia online business registration work?",
+    "expected_source_ids": [
+      "online_business_registration_guide"
+    ],
+    "expected_answer": "The answer should be supported by source online_business_registration_guide and should not add unsupported claims."
+  },
+  {
+    "id": "q003",
+    "question": "Which agencies participate in online business registration?",
+    "expected_source_ids": [
+      "online_business_registration_guide"
+    ],
+    "expected_answer": "The answer should be supported by source online_business_registration_guide and should not add unsupported claims."
+  },
+  {
+    "id": "q004",
+    "question": "What documents support an online registration application?",
+    "expected_source_ids": [
+      "online_business_registration_guide"
+    ],
+    "expected_answer": "The answer should be supported by source online_business_registration_guide and should not add unsupported claims."
+  },
+  {
+    "id": "q005",
+    "question": "How can an applicant use the online registration guide?",
+    "expected_source_ids": [
+      "online_business_registration_guide"
+    ],
+    "expected_answer": "The answer should be supported by source online_business_registration_guide and should not add unsupported claims."
+  },
+  {
+    "id": "q006",
+    "question": "Who may register a business through the Online Business Registration system?",
+    "expected_source_ids": [
+      "obr_who_can_register"
+    ],
+    "expected_answer": "The answer should be supported by source obr_who_can_register and should not add unsupported claims."
+  },
+  {
+    "id": "q007",
+    "question": "Which legal business forms can use the OBR platform?",
+    "expected_source_ids": [
+      "obr_who_can_register"
+    ],
+    "expected_answer": "The answer should be supported by source obr_who_can_register and should not add unsupported claims."
+  },
+  {
+    "id": "q008",
+    "question": "Can an eligible entrepreneur submit registration online?",
+    "expected_source_ids": [
+      "obr_who_can_register"
+    ],
+    "expected_answer": "The answer should be supported by source obr_who_can_register and should not add unsupported claims."
+  },
+  {
+    "id": "q009",
+    "question": "What applicants qualify for online business registration?",
+    "expected_source_ids": [
+      "obr_who_can_register"
+    ],
+    "expected_answer": "The answer should be supported by source obr_who_can_register and should not add unsupported claims."
+  },
+  {
+    "id": "q010",
+    "question": "Where can I check whether my business can use OBR?",
+    "expected_source_ids": [
+      "obr_who_can_register"
+    ],
+    "expected_answer": "The answer should be supported by source obr_who_can_register and should not add unsupported claims."
+  },
+  {
+    "id": "q011",
+    "question": "What obligations follow successful business registration?",
+    "expected_source_ids": [
+      "obr_post_registration_obligations"
+    ],
+    "expected_answer": "The answer should be supported by source obr_post_registration_obligations and should not add unsupported claims."
+  },
+  {
+    "id": "q012",
+    "question": "What should a company do after receiving registration approval?",
+    "expected_source_ids": [
+      "obr_post_registration_obligations"
+    ],
+    "expected_answer": "The answer should be supported by source obr_post_registration_obligations and should not add unsupported claims."
+  },
+  {
+    "id": "q013",
+    "question": "Are there post-registration compliance duties?",
+    "expected_source_ids": [
+      "obr_post_registration_obligations"
+    ],
+    "expected_answer": "The answer should be supported by source obr_post_registration_obligations and should not add unsupported claims."
+  },
+  {
+    "id": "q014",
+    "question": "Where are obligations after registration explained?",
+    "expected_source_ids": [
+      "obr_post_registration_obligations"
+    ],
+    "expected_answer": "The answer should be supported by source obr_post_registration_obligations and should not add unsupported claims."
+  },
+  {
+    "id": "q015",
+    "question": "What ongoing steps must a newly registered business consider?",
+    "expected_source_ids": [
+      "obr_post_registration_obligations"
+    ],
+    "expected_answer": "The answer should be supported by source obr_post_registration_obligations and should not add unsupported claims."
+  },
+  {
+    "id": "q016",
+    "question": "When may a company request modification of its registered information?",
+    "expected_source_ids": [
+      "obr_modify_registratioin_forms"
+    ],
+    "expected_answer": "The answer should be supported by source obr_modify_registratioin_forms and should not add unsupported claims."
+  },
+  {
+    "id": "q017",
+    "question": "What conditions apply to changing company information?",
+    "expected_source_ids": [
+      "obr_modify_registratioin_forms"
+    ],
+    "expected_answer": "The answer should be supported by source obr_modify_registratioin_forms and should not add unsupported claims."
+  },
+  {
+    "id": "q018",
+    "question": "How can registration details be modified?",
+    "expected_source_ids": [
+      "obr_modify_registratioin_forms"
+    ],
+    "expected_answer": "The answer should be supported by source obr_modify_registratioin_forms and should not add unsupported claims."
+  },
+  {
+    "id": "q019",
+    "question": "Where are company modification requirements published?",
+    "expected_source_ids": [
+      "obr_modify_registratioin_forms"
+    ],
+    "expected_answer": "The answer should be supported by source obr_modify_registratioin_forms and should not add unsupported claims."
+  },
+  {
+    "id": "q020",
+    "question": "Can an existing company amend its registration form?",
+    "expected_source_ids": [
+      "obr_modify_registratioin_forms"
+    ],
+    "expected_answer": "The answer should be supported by source obr_modify_registratioin_forms and should not add unsupported claims."
+  },
+  {
+    "id": "q021",
+    "question": "How can streamlined registration support Cambodian MSMEs?",
+    "expected_source_ids": [
+      "supporting_msmes_sdgs_cambodia"
+    ],
+    "expected_answer": "The answer should be supported by source supporting_msmes_sdgs_cambodia and should not add unsupported claims."
+  },
+  {
+    "id": "q022",
+    "question": "What links Cambodia MSME formalization to the SDGs?",
+    "expected_source_ids": [
+      "supporting_msmes_sdgs_cambodia"
+    ],
+    "expected_answer": "The answer should be supported by source supporting_msmes_sdgs_cambodia and should not add unsupported claims."
+  },
+  {
+    "id": "q023",
+    "question": "What barriers to MSME registration are discussed in the UN report?",
+    "expected_source_ids": [
+      "supporting_msmes_sdgs_cambodia"
+    ],
+    "expected_answer": "The answer should be supported by source supporting_msmes_sdgs_cambodia and should not add unsupported claims."
+  },
+  {
+    "id": "q024",
+    "question": "Why is business formalization important for Cambodian MSMEs?",
+    "expected_source_ids": [
+      "supporting_msmes_sdgs_cambodia"
+    ],
+    "expected_answer": "The answer should be supported by source supporting_msmes_sdgs_cambodia and should not add unsupported claims."
+  },
+  {
+    "id": "q025",
+    "question": "What policy improvements can streamline MSME registration?",
+    "expected_source_ids": [
+      "supporting_msmes_sdgs_cambodia"
+    ],
+    "expected_answer": "The answer should be supported by source supporting_msmes_sdgs_cambodia and should not add unsupported claims."
+  },
+  {
+    "id": "q026",
+    "question": "Where can businesses find official Cambodian tax FAQs?",
+    "expected_source_ids": [
+      "gdt_tax_faq"
+    ],
+    "expected_answer": "The answer should be supported by source gdt_tax_faq and should not add unsupported claims."
+  },
+  {
+    "id": "q027",
+    "question": "What tax guidance does the General Department of Taxation provide?",
+    "expected_source_ids": [
+      "gdt_tax_faq"
+    ],
+    "expected_answer": "The answer should be supported by source gdt_tax_faq and should not add unsupported claims."
+  },
+  {
+    "id": "q028",
+    "question": "Where should a new business look for answers to tax questions?",
+    "expected_source_ids": [
+      "gdt_tax_faq"
+    ],
+    "expected_answer": "The answer should be supported by source gdt_tax_faq and should not add unsupported claims."
+  },
+  {
+    "id": "q029",
+    "question": "Which agency publishes Cambodia tax FAQs?",
+    "expected_source_ids": [
+      "gdt_tax_faq"
+    ],
+    "expected_answer": "The answer should be supported by source gdt_tax_faq and should not add unsupported claims."
+  },
+  {
+    "id": "q030",
+    "question": "How can taxpayers obtain official frequently asked questions?",
+    "expected_source_ids": [
+      "gdt_tax_faq"
+    ],
+    "expected_answer": "The answer should be supported by source gdt_tax_faq and should not add unsupported claims."
+  },
+  {
+    "id": "q031",
+    "question": "What law governs commercial enterprises in Cambodia?",
+    "expected_source_ids": [
+      "law_on_commercial_enterprises"
+    ],
+    "expected_answer": "The answer should be supported by source law_on_commercial_enterprises and should not add unsupported claims."
+  },
+  {
+    "id": "q032",
+    "question": "Where can I read Cambodia’s Law on Commercial Enterprises?",
+    "expected_source_ids": [
+      "law_on_commercial_enterprises"
+    ],
+    "expected_answer": "The answer should be supported by source law_on_commercial_enterprises and should not add unsupported claims."
+  },
+  {
+    "id": "q033",
+    "question": "What legal source covers Cambodian company organization?",
+    "expected_source_ids": [
+      "law_on_commercial_enterprises"
+    ],
+    "expected_answer": "The answer should be supported by source law_on_commercial_enterprises and should not add unsupported claims."
+  },
+  {
+    "id": "q034",
+    "question": "Which document explains rules for commercial enterprises?",
+    "expected_source_ids": [
+      "law_on_commercial_enterprises"
+    ],
+    "expected_answer": "The answer should be supported by source law_on_commercial_enterprises and should not add unsupported claims."
+  },
+  {
+    "id": "q035",
+    "question": "What law should company founders consult?",
+    "expected_source_ids": [
+      "law_on_commercial_enterprises"
+    ],
+    "expected_answer": "The answer should be supported by source law_on_commercial_enterprises and should not add unsupported claims."
+  },
+  {
+    "id": "q036",
+    "question": "What should Cambodian employers know about labour inspections?",
+    "expected_source_ids": [
+      "labour_inspection_guide"
+    ],
+    "expected_answer": "The answer should be supported by source labour_inspection_guide and should not add unsupported claims."
+  },
+  {
+    "id": "q037",
+    "question": "Which ministry provides guidance on labour inspections?",
+    "expected_source_ids": [
+      "labour_inspection_guide"
+    ],
+    "expected_answer": "The answer should be supported by source labour_inspection_guide and should not add unsupported claims."
+  },
+  {
+    "id": "q038",
+    "question": "How can a business prepare for a labour inspection?",
+    "expected_source_ids": [
+      "labour_inspection_guide"
+    ],
+    "expected_answer": "The answer should be supported by source labour_inspection_guide and should not add unsupported claims."
+  },
+  {
+    "id": "q039",
+    "question": "Where are Cambodian labour inspection procedures explained?",
+    "expected_source_ids": [
+      "labour_inspection_guide"
+    ],
+    "expected_answer": "The answer should be supported by source labour_inspection_guide and should not add unsupported claims."
+  },
+  {
+    "id": "q040",
+    "question": "What guide helps employers understand labour inspections?",
+    "expected_source_ids": [
+      "labour_inspection_guide"
+    ],
+    "expected_answer": "The answer should be supported by source labour_inspection_guide and should not add unsupported claims."
+  },
+  {
+    "id": "q041",
+    "question": "What are the main stages of starting a business in Cambodia?",
+    "expected_source_ids": [
+      "khmersme_starting_business"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business and should not add unsupported claims."
+  },
+  {
+    "id": "q042",
+    "question": "Where can Cambodian entrepreneurs find startup guidance?",
+    "expected_source_ids": [
+      "khmersme_starting_business"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business and should not add unsupported claims."
+  },
+  {
+    "id": "q043",
+    "question": "What should I consider before starting a small business?",
+    "expected_source_ids": [
+      "khmersme_starting_business"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business and should not add unsupported claims."
+  },
+  {
+    "id": "q044",
+    "question": "Which KhmerSME resource gives an overview of starting a business?",
+    "expected_source_ids": [
+      "khmersme_starting_business"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business and should not add unsupported claims."
+  },
+  {
+    "id": "q045",
+    "question": "How can KhmerSME help a first-time entrepreneur?",
+    "expected_source_ids": [
+      "khmersme_starting_business"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business and should not add unsupported claims."
+  },
+  {
+    "id": "q046",
+    "question": "How should a Cambodian entrepreneur conduct market research?",
+    "expected_source_ids": [
+      "khmersme_starting_business_step_3"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business_step_3 and should not add unsupported claims."
+  },
+  {
+    "id": "q047",
+    "question": "Why is market research important before launching a business?",
+    "expected_source_ids": [
+      "khmersme_starting_business_step_3"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business_step_3 and should not add unsupported claims."
+  },
+  {
+    "id": "q048",
+    "question": "What should market research cover for a startup?",
+    "expected_source_ids": [
+      "khmersme_starting_business_step_3"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business_step_3 and should not add unsupported claims."
+  },
+  {
+    "id": "q049",
+    "question": "Where can I learn about researching a Cambodian market?",
+    "expected_source_ids": [
+      "khmersme_starting_business_step_3"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business_step_3 and should not add unsupported claims."
+  },
+  {
+    "id": "q050",
+    "question": "At which startup stage should market research be conducted?",
+    "expected_source_ids": [
+      "khmersme_starting_business_step_3"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business_step_3 and should not add unsupported claims."
+  },
+  {
+    "id": "q051",
+    "question": "How should an entrepreneur write a business plan?",
+    "expected_source_ids": [
+      "khmersme_starting_business_step_4"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business_step_4 and should not add unsupported claims."
+  },
+  {
+    "id": "q052",
+    "question": "What is the purpose of a startup business plan?",
+    "expected_source_ids": [
+      "khmersme_starting_business_step_4"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business_step_4 and should not add unsupported claims."
+  },
+  {
+    "id": "q053",
+    "question": "Where can Cambodian SMEs find business plan guidance?",
+    "expected_source_ids": [
+      "khmersme_starting_business_step_4"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business_step_4 and should not add unsupported claims."
+  },
+  {
+    "id": "q054",
+    "question": "What should be planned before business operations begin?",
+    "expected_source_ids": [
+      "khmersme_starting_business_step_4"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business_step_4 and should not add unsupported claims."
+  },
+  {
+    "id": "q055",
+    "question": "Why does a new business need a written plan?",
+    "expected_source_ids": [
+      "khmersme_starting_business_step_4"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business_step_4 and should not add unsupported claims."
+  },
+  {
+    "id": "q056",
+    "question": "How can an entrepreneur make a Cambodian business legal?",
+    "expected_source_ids": [
+      "khmersme_starting_business_step_5"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business_step_5 and should not add unsupported claims."
+  },
+  {
+    "id": "q057",
+    "question": "What registration step makes a startup legally compliant?",
+    "expected_source_ids": [
+      "khmersme_starting_business_step_5"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business_step_5 and should not add unsupported claims."
+  },
+  {
+    "id": "q058",
+    "question": "Where does KhmerSME explain business legalization?",
+    "expected_source_ids": [
+      "khmersme_starting_business_step_5"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business_step_5 and should not add unsupported claims."
+  },
+  {
+    "id": "q059",
+    "question": "What legal formalization should a new business consider?",
+    "expected_source_ids": [
+      "khmersme_starting_business_step_5"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business_step_5 and should not add unsupported claims."
+  },
+  {
+    "id": "q060",
+    "question": "When should a startup address legal registration?",
+    "expected_source_ids": [
+      "khmersme_starting_business_step_5"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business_step_5 and should not add unsupported claims."
+  },
+  {
+    "id": "q061",
+    "question": "What financing options should a Cambodian startup consider?",
+    "expected_source_ids": [
+      "khmersme_starting_business_step_6"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business_step_6 and should not add unsupported claims."
+  },
+  {
+    "id": "q062",
+    "question": "How can an entrepreneur prepare to finance a business?",
+    "expected_source_ids": [
+      "khmersme_starting_business_step_6"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business_step_6 and should not add unsupported claims."
+  },
+  {
+    "id": "q063",
+    "question": "Where can SMEs find guidance on business financing?",
+    "expected_source_ids": [
+      "khmersme_starting_business_step_6"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business_step_6 and should not add unsupported claims."
+  },
+  {
+    "id": "q064",
+    "question": "What should founders assess before seeking startup funds?",
+    "expected_source_ids": [
+      "khmersme_starting_business_step_6"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business_step_6 and should not add unsupported claims."
+  },
+  {
+    "id": "q065",
+    "question": "At what stage should financing be planned?",
+    "expected_source_ids": [
+      "khmersme_starting_business_step_6"
+    ],
+    "expected_answer": "The answer should be supported by source khmersme_starting_business_step_6 and should not add unsupported claims."
+  },
+  {
+    "id": "q066",
+    "question": "What law governs investment in Cambodia?",
+    "expected_source_ids": [
+      "cambodia_investment_law_2021"
+    ],
+    "expected_answer": "The answer should be supported by source cambodia_investment_law_2021 and should not add unsupported claims."
+  },
+  {
+    "id": "q067",
+    "question": "What does Cambodia’s 2021 investment law cover?",
+    "expected_source_ids": [
+      "cambodia_investment_law_2021"
+    ],
+    "expected_answer": "The answer should be supported by source cambodia_investment_law_2021 and should not add unsupported claims."
+  },
+  {
+    "id": "q068",
+    "question": "Where can investors read the Law on Investment?",
+    "expected_source_ids": [
+      "cambodia_investment_law_2021"
+    ],
+    "expected_answer": "The answer should be supported by source cambodia_investment_law_2021 and should not add unsupported claims."
+  },
+  {
+    "id": "q069",
+    "question": "Which official source explains Cambodian investment rules?",
+    "expected_source_ids": [
+      "cambodia_investment_law_2021"
+    ],
+    "expected_answer": "The answer should be supported by source cambodia_investment_law_2021 and should not add unsupported claims."
+  },
+  {
+    "id": "q070",
+    "question": "What legal framework should a prospective investor consult?",
+    "expected_source_ids": [
+      "cambodia_investment_law_2021"
+    ],
+    "expected_answer": "The answer should be supported by source cambodia_investment_law_2021 and should not add unsupported claims."
+  },
+  {
+    "id": "q071",
+    "question": "What steps should an investor follow in Cambodia?",
+    "expected_source_ids": [
+      "cdc_investment_guide"
+    ],
+    "expected_answer": "The answer should be supported by source cdc_investment_guide and should not add unsupported claims."
+  },
+  {
+    "id": "q072",
+    "question": "Where is Cambodia’s step-by-step investment guide?",
+    "expected_source_ids": [
+      "cdc_investment_guide"
+    ],
+    "expected_answer": "The answer should be supported by source cdc_investment_guide and should not add unsupported claims."
+  },
+  {
+    "id": "q073",
+    "question": "Which agency guides investors through Cambodian procedures?",
+    "expected_source_ids": [
+      "cdc_investment_guide"
+    ],
+    "expected_answer": "The answer should be supported by source cdc_investment_guide and should not add unsupported claims."
+  },
+  {
+    "id": "q074",
+    "question": "How can a prospective investor understand the investment process?",
+    "expected_source_ids": [
+      "cdc_investment_guide"
+    ],
+    "expected_answer": "The answer should be supported by source cdc_investment_guide and should not add unsupported claims."
+  },
+  {
+    "id": "q075",
+    "question": "What practical guide supports investment setup in Cambodia?",
+    "expected_source_ids": [
+      "cdc_investment_guide"
+    ],
+    "expected_answer": "The answer should be supported by source cdc_investment_guide and should not add unsupported claims."
+  }
+]

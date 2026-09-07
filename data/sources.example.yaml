@@ -1,0 +1,76 @@
+# =====================
+# Business Registration
+# =====================
+- id: 
+  agency: 
+  title: 
+  url: 
+  topic: 
+  category: 
+  published_year: 
+  official: 
+  type: 
+
+# ===================
+# Tax
+# ===================
+- id: 
+  agency: 
+  title: 
+  url: 
+  topic: 
+  category: 
+  published_year: 
+  official: 
+  type: 
+
+# ===================
+# Law
+# ===================
+- id: 
+  agency: 
+  title: 
+  url: 
+  topic: 
+  category: 
+  published_year: 
+  official: 
+  type: 
+  
+# ===================
+# Labour
+# ===================
+- id: 
+  agency: 
+  title: 
+  url: 
+  topic: 
+  category: 
+  published_year: 
+  official: 
+  type: 
+
+# ============================
+# NSSF / Employer Registration
+# ============================
+- id: 
+  agency: 
+  title: 
+  url: 
+  topic: 
+  category: 
+  published_year: 
+  official: 
+  type: 
+
+# Startups / SMEs 
+# ========================
+- id: 
+  agency: 
+  title: 
+  url: 
+  topic: 
+  category: 
+  published_year: 
+  official: 
+  type: 

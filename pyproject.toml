@@ -1,26 +1,32 @@
 [project]
 name = "bizcompass-kh"
 version = "0.1.0"
-description = "AI-Powered Business Registration & Startup Guide for Cambodia"
+description = "Cambodia SME and business registration RAG assistant"
 readme = "README.md"
-authors = [
-    { name = "Nhaaa4", email = "panhasovan51@gmail.com" }
-]
-requires-python = ">=3.14"
+authors = [{ name = "Nhaaa4", email = "panhasovan51@gmail.com" }]
+requires-python = ">=3.12"
 dependencies = [
+    "dlt[postgres]>=1.30.0",
     "httpx>=0.28.1",
     "langchain-core>=1.5.6",
-    "langchain-ollama>=1.1.0",
+    "langchain-google-genai>=4.0.0",
+    "langchain-openai>=1.0.0",
+    "langchain-text-splitters>=1.1.2",
+    "pandas>=3.0.5",
+    "pgvector>=0.4.1",
+    "prometheus-client>=0.22.1",
     "psycopg[binary]>=3.3.4",
     "pydantic-settings>=2.15.0",
     "pymupdf>=1.28.2",
     "pyyaml>=6.0.3",
-    "sqlalchemy[asyncio]>=2.0.52",
+    "sqlalchemy>=2.0.52",
+    "streamlit>=1.63.0",
     "trafilatura>=2.2.0",
 ]
 
 [project.scripts]
-bizcompass-kh = "bizcompass_kh:main"
+bizcompass-ingest = "bizcompass_kh.ingestion.dlt_pipeline:main"
+bizcompass-evaluate = "bizcompass_kh.evaluation.runner:main"
 
 [build-system]
 requires = ["uv_build>=0.12.3,<0.13.0"]
@@ -28,17 +34,26 @@ build-backend = "uv_build"
 
 [dependency-groups]
 dev = [
-    "ipykernel>=7.3.0",
+    "pyright>=1.1.411",
     "pytest>=9.1.1",
     "ruff>=0.16.3",
 ]
 
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["integration: requires a running PostgreSQL/pgvector database"]
+
 [tool.pyright]
 include = ["src", "tests"]
-pythonVersion = "3.14"
-typeCheckingMode = "strict"
+pythonVersion = "3.12"
+typeCheckingMode = "standard"
+reportMissingTypeStubs = false
+reportUnknownMemberType = false
 
 [tool.ruff]
-target-version = "py314"
-line-length = 88
-exclude = ["notebooks"]
+target-version = "py312"
+line-length = 100
+exclude = ["notebooks", ".dlt"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
